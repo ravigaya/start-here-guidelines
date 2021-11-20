@@ -38,12 +38,7 @@ We don't care if you break things. This is a playground and we encourage failing
     git pull upstream master
     ```
 
-    If you run into a **merge conflict**, you have to resolve the conflict. There are a lot of guides online, or you can try this one by [opensource.com](https://opensource.com/article/20/4/git-merge-conflict).
-
-5. After adding the upstream and checking that all files are up to date, we now will create new branch before editing any files. There are two ways to do so:
-    
-    ```bash
-    git checkout -b <branch-name>
+   
     ```
     
     ```bash
