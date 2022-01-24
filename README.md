@@ -14,7 +14,6 @@ We don't care if you break things. This is a playground and we encourage failing
 
    ![fork image](https://help.github.com/assets/images/help/repository/fork_button.jpg)
 
-3. Clone _your forked repository_ to your computer:
 
    ![code ui](https://docs.github.com/assets/images/help/repository/code-button.png)
 
